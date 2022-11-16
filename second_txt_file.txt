@@ -2,4 +2,5 @@ my name is Selim Sariyerli
 I just started the first lesson tonight, my background in data analytics is about 10 years or more 
 i am working in pharma in this space for a long time but i am more a functional data analyst, i am not a coder
 my first experience with data science is this program
-
+my expectation regarding this program is to help me with our data science projects in my work, 
+especially in 2023 i am planning to launch a pilot for data analytics 
